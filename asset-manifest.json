@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deploy-react-app-bsek.git/static/css/main.16d0fe0f.chunk.css",
+    "main.js": "/deploy-react-app-bsek.git/static/js/main.7d15a169.chunk.js",
+    "main.js.map": "/deploy-react-app-bsek.git/static/js/main.7d15a169.chunk.js.map",
+    "runtime-main.js": "/deploy-react-app-bsek.git/static/js/runtime-main.605dad38.js",
+    "runtime-main.js.map": "/deploy-react-app-bsek.git/static/js/runtime-main.605dad38.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/deploy-react-app-bsek.git/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.67dc052e.chunk.js": "/deploy-react-app-bsek.git/static/js/2.67dc052e.chunk.js",
+    "static/js/2.67dc052e.chunk.js.map": "/deploy-react-app-bsek.git/static/js/2.67dc052e.chunk.js.map",
+    "static/js/3.9505d539.chunk.js": "/deploy-react-app-bsek.git/static/js/3.9505d539.chunk.js",
+    "static/js/3.9505d539.chunk.js.map": "/deploy-react-app-bsek.git/static/js/3.9505d539.chunk.js.map",
+    "index.html": "/deploy-react-app-bsek.git/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/deploy-react-app-bsek.git/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.16d0fe0f.chunk.css.map": "/deploy-react-app-bsek.git/static/css/main.16d0fe0f.chunk.css.map",
+    "static/js/2.67dc052e.chunk.js.LICENSE.txt": "/deploy-react-app-bsek.git/static/js/2.67dc052e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.605dad38.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.67dc052e.chunk.js",
+    "static/css/main.16d0fe0f.chunk.css",
+    "static/js/main.7d15a169.chunk.js"
+  ]
+}
