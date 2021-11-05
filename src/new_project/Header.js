@@ -29,6 +29,10 @@ class Header extends Component {
             $(".nav-link").removeClass("active");
             $(this).addClass("active");
         });
+            $("#main_navbar .nav-item").click(function(){
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+        });
         });
     }
     render(){
@@ -105,7 +109,7 @@ class Header extends Component {
                 </div>
         </div>
 
-        <nav className="navbar sticky-top navbar-light navbar-expand-lg navbar-expand-md bg-light">
+        <nav className="navbar sticky-top navbar-light navbar-expand-lg navbar-expand-md bg-light" id="main_navbar">
         <div className="container-fluid">
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
